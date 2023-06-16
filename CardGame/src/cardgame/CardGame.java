@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  * Code in progress for teaching cohesion and coupling
- * @author dancye- this code has been refactored for teaching purposes.
+ * @author Ramandeep kaur- this code has been refactored for teaching purposes.
  * 
  */
 public class CardGame {
