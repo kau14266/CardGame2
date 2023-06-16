@@ -14,7 +14,7 @@ public class CardGame {
         
         Card[] hand = generateHand(suits);
         
-        // Ask the user for card specs
+        // Ask the users for card specs
         // Assuming you want to match based on value and suit
         int desiredValue = getUserInputValue();
         String desiredSuit = getUserInputSuit();
